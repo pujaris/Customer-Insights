@@ -1,6 +1,7 @@
 # Customer-Insights
 Data Cleaning, Visualization and Insights
-The Customer data has been presented in raw format 
+
+The Customer data has been presented in raw format. 
 
 Methods to be followed:
 
